@@ -2,10 +2,9 @@
 
 ### Day 0: December 28, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Watched/worked through CSS grid tutorial https://scrimba.com/g/gR8PTE
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Not quite enough support yet for use on Rootid pages, but we're getting there!
 
 **Link(s) to work:** 
- 1.   asdf
- 2.   jkl;
+
